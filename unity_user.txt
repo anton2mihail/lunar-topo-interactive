@@ -1,4 +1,0 @@
-Unity Credentials: 
-Username: sri_unity
-email: sri.developer731@gmail.com
-password: Unity#18
